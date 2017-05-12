@@ -2,5 +2,5 @@
 layout: default
 ---
 
-Curriculum Vitae
+CV
 ================================
